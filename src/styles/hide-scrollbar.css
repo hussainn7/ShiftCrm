@@ -1,0 +1,16 @@
+/* Hide scrollbar while preserving scrolling functionality */
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* Internet Explorer and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari and Opera */
+}
+
+/* Ensure tabs are properly spaced and responsive */
+@media (max-width: 640px) {
+  .hide-scrollbar {
+    padding: 2px 0;
+  }
+}

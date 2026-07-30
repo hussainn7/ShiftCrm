@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "email": "admin@gmail.com",
+    "firstName": "Hussain",
+    "lastName": "Syed",
+    "password": "123",
+    "role": "admin",
+    "profilePicture": "/../uploads/profile-pictures/1785376390363-2596e052-4a2e-40dc-8a1c-033525034069.webp",
+    "notifications": []
+  },
+  {
+    "id": "6",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "user1@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=John+Smith",
+    "notifications": []
+  },
+  {
+    "id": "8",
+    "firstName": "Emma",
+    "lastName": "Brown",
+    "email": "user2@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Emma+Brown",
+    "notifications": []
+  },
+  {
+    "id": "569ea380-2025-44a8-9b79-d2b39cd8fdc9",
+    "firstName": "Liam",
+    "lastName": "Taylor",
+    "email": "user3@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Liam+Taylor",
+    "notifications": []
+  },
+  {
+    "id": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "email": "user4@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Olivia+Wilson",
+    "notifications": []
+  },
+  {
+    "id": "13981724",
+    "firstName": "Noah",
+    "lastName": "Johnson",
+    "email": "user5@example.com",
+    "password": "********",
+    "role": "team-lead",
+    "profilePicture": "https://ui-avatars.com/api/?name=Noah+Johnson",
+    "notifications": []
+  },
+  {
+    "id": "8f81348b-7c60-4cc9-8754-b6a1cffec084",
+    "firstName": "Ava",
+    "lastName": "Martin",
+    "email": "user6@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Ava+Martin",
+    "notifications": []
+  },
+  {
+    "id": "14",
+    "firstName": "Elijah",
+    "lastName": "Lee",
+    "email": "user7@example.com",
+    "password": "********",
+    "role": "team-lead",
+    "profilePicture": "https://ui-avatars.com/api/?name=Elijah+Lee",
+    "notifications": []
+  },
+  {
+    "id": "50a06b97-91c0-4819-89ce-2552fe8ad868",
+    "firstName": "Mia",
+    "lastName": "Walker",
+    "email": "user8@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Mia+Walker",
+    "notifications": []
+  },
+  {
+    "id": "15",
+    "firstName": "James",
+    "lastName": "King",
+    "email": "user9@example.com",
+    "password": "********",
+    "role": "team-lead",
+    "profilePicture": "https://ui-avatars.com/api/?name=James+King",
+    "notifications": []
+  },
+  {
+    "id": "8fc945a6-9007-498e-b627-0206760f918a",
+    "firstName": "Sophia",
+    "lastName": "Bennett",
+    "email": "user10@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Sophia+Bennett",
+    "notifications": []
+  },
+  {
+    "id": "1372834",
+    "firstName": "Lucas",
+    "lastName": "Adams",
+    "email": "user11@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Lucas+Adams",
+    "notifications": []
+  },
+  {
+    "id": "bcdf77a1-37ff-4c59-9732-757ababeed3f",
+    "firstName": "Henry",
+    "lastName": "Moore",
+    "email": "user13@example.com",
+    "password": "********",
+    "role": "employee",
+    "profilePicture": "https://ui-avatars.com/api/?name=Henry+Moore",
+    "notifications": []
+  }
+]

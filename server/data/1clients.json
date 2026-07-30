@@ -1,0 +1,236 @@
+[
+  {
+    "id": "1",
+    "name": "UFC GYM",
+    "contactInfo": "123123",
+    "description": "6 постов в неделю\n6 рилс в месяц\n10 сторис в день",
+    "links": [
+      "example.com"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "КУЛИКОВ",
+    "contactInfo": "___",
+    "description": "Главные по тортам и сладкому",
+    "links": [
+      "https://kulikov.com/home"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "ЭКОИСЛАМИК БАНК",
+    "contactInfo": "____",
+    "description": "Банк",
+    "links": [
+      "eib.kg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "name": "JBN",
+    "description": "Проектно-строительная компания ЖБН Компани",
+    "links": [
+      "https://jbn.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "6",
+    "name": "Tatmal",
+    "description": "Производители специй",
+    "links": [],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "7",
+    "name": "Аляра",
+    "description": "Массажная терапия",
+    "links": [],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "8",
+    "name": "Фонотек",
+    "description": "Магазин слуховых аппаратов",
+    "links": [
+      "https://fonotech.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "9",
+    "name": "Sound",
+    "description": "Магазин слуховых аппаратов",
+    "links": [
+      "http://surdology.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "10",
+    "name": "АТН-Полис",
+    "description": "Страховая компания",
+    "links": [
+      "https://atnpolis.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "11",
+    "name": "Адилет",
+    "description": "Правовая клиника",
+    "links": [
+      "https://adilet.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "12",
+    "name": "Аю Гарант",
+    "description": "Страховая компания",
+    "links": [
+      "https://agi.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "13",
+    "name": "Евролаб",
+    "description": "Лаборатория анализов",
+    "links": [],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "14",
+    "name": "Birge Group",
+    "description": "Производство и продажа строительных материалов",
+    "links": [
+      "https://birgegroup.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "15",
+    "name": "Бакай Insurance",
+    "description": "Страховая компания",
+    "links": [
+      "https://insurancebakai.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "16",
+    "name": "Alliance sert",
+    "description": "Центр сертификации",
+    "links": [
+      "https://alliance-sert.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "17",
+    "name": "Кардиоцентр",
+    "description": "Кардиологический центр",
+    "links": [
+      "https://www.kardiocentr.kg/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  },
+  {
+    "id": "1898",
+    "name": "Turpan Fitness",
+    "description": "Фитнес центр",
+    "links": [
+      "https://www.instagram.com/turpanfitness/"
+    ],
+    "status": "active",
+    "createdBy": "",
+    "contactPerson": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "website": "",
+    "tags": []
+  }
+]

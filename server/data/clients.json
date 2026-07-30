@@ -1,0 +1,89 @@
+[
+    {
+      "id": "1",
+      "name": "Client X",
+      "contactInfo": "123123",
+      "description": "6 posts per week\n6 reels per month\n10 stories per day",
+      "links": [
+        "example.com"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "Client Y",
+      "contactInfo": "___",
+      "description": "Experts in cakes and sweets",
+      "links": [
+        "example.com"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Client Z",
+      "contactInfo": "____",
+      "description": "Bank",
+      "links": [
+        "example.com"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "name": "Client A",
+      "description": "Architecture & Construction Company",
+      "links": [
+        "example.com"
+      ],
+      "status": "active",
+      "createdBy": "",
+      "contactPerson": "",
+      "contactEmail": "",
+      "contactPhone": "",
+      "website": "",
+      "tags": []
+    },
+    {
+      "id": "6",
+      "name": "Client B",
+      "description": "Spice manufacturers",
+      "links": [],
+      "status": "active",
+      "createdBy": "",
+      "contactPerson": "",
+      "contactEmail": "",
+      "contactPhone": "",
+      "website": "",
+      "tags": []
+    },
+    {
+      "id": "7",
+      "name": "Client C",
+      "description": "Massage therapy",
+      "links": [],
+      "status": "active",
+      "createdBy": "",
+      "contactPerson": "",
+      "contactEmail": "",
+      "contactPhone": "",
+      "website": "",
+      "tags": []
+    },
+    {
+      "id": "8",
+      "name": "Client D",
+      "description": "Hearing aid store",
+      "links": [
+        "example.com"
+      ],
+      "status": "active",
+      "createdBy": "",
+      "contactPerson": "",
+      "contactEmail": "",
+      "contactPhone": "",
+      "website": "",
+      "tags": []
+    }
+  ]
+  

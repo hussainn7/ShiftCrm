@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "userId": "2",
+    "message": "You have been assigned to task: tasking",
+    "type": "task_assignment",
+    "relatedId": "1",
+    "read": false,
+    "createdAt": "2025-04-22T23:11:40.820Z"
+  },
+  {
+    "id": "2",
+    "userId": "12",
+    "message": "You have been assigned to task: Test ",
+    "type": "task_assignment",
+    "relatedId": "3",
+    "read": false,
+    "createdAt": "2025-05-01T06:13:02.320Z"
+  },
+  {
+    "id": "3",
+    "userId": "3",
+    "message": "You have been assigned to task: Test ",
+    "type": "task_assignment",
+    "relatedId": "3",
+    "read": false,
+    "createdAt": "2025-05-01T06:13:02.320Z"
+  },
+  {
+    "id": "4",
+    "userId": "14",
+    "message": "You have been assigned to task: test ispolnitely",
+    "type": "task_assignment",
+    "relatedId": "4",
+    "read": false,
+    "createdAt": "2025-05-01T06:37:08.599Z"
+  },
+  {
+    "id": "5",
+    "userId": "3",
+    "message": "You have been assigned to task: test ispolnitely",
+    "type": "task_assignment",
+    "relatedId": "4",
+    "read": false,
+    "createdAt": "2025-05-01T06:37:08.599Z"
+  },
+  {
+    "id": "6",
+    "userId": "3",
+    "message": "You have been assigned to task: test",
+    "type": "task_assignment",
+    "relatedId": "7d1b8f4f-36f5-4c19-b25b-ed82aa7bd04b",
+    "read": false,
+    "createdAt": "2025-05-23T03:03:51.075Z"
+  },
+  {
+    "id": "7",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Сторис Sound",
+    "type": "task_assignment",
+    "relatedId": "376e56d5-eeaa-4fab-8201-9299f7633771",
+    "read": false,
+    "createdAt": "2025-06-11T07:19:34.102Z"
+  },
+  {
+    "id": "8",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Сторис Sound",
+    "type": "task_assignment",
+    "relatedId": "11b38db6-4bb6-4130-9c10-3de695e82028",
+    "read": false,
+    "createdAt": "2025-06-11T07:25:53.043Z"
+  },
+  {
+    "id": "9",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Пост SOUND",
+    "type": "task_assignment",
+    "relatedId": "0648c50a-0d11-41d8-87e9-72c6c199c6bd",
+    "read": false,
+    "createdAt": "2025-06-11T07:26:06.709Z"
+  },
+  {
+    "id": "10",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: пост Альянс",
+    "type": "task_assignment",
+    "relatedId": "1317afbd-631b-471f-b235-cd7000992fb4",
+    "read": false,
+    "createdAt": "2025-06-16T10:09:23.118Z"
+  },
+  {
+    "id": "11",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Альянс сторис ",
+    "type": "task_assignment",
+    "relatedId": "5a734926-c8d0-4d1e-acac-1e47cec59fe4",
+    "read": false,
+    "createdAt": "2025-06-16T10:11:18.897Z"
+  },
+  {
+    "id": "12",
+    "userId": "8",
+    "message": "You have been assigned to task: ЖБН моушн ",
+    "type": "task_assignment",
+    "relatedId": "93d28d91-460b-45d2-ae04-0087d05ca6d9",
+    "read": false,
+    "createdAt": "2025-06-17T09:29:21.007Z"
+  },
+  {
+    "id": "13",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: сторис Sound",
+    "type": "task_assignment",
+    "relatedId": "22a22c1b-5d0c-457b-b3d0-a19ca17138b3",
+    "read": false,
+    "createdAt": "2025-06-17T09:32:12.323Z"
+  },
+  {
+    "id": "14",
+    "userId": "569ea380-2025-44a8-9b79-d2b39cd8fdc9",
+    "message": "You have been assigned to task: Сторис Евролаб",
+    "type": "task_assignment",
+    "relatedId": "eca420b3-f030-4bb4-9063-15dce5f251ca",
+    "read": false,
+    "createdAt": "2025-06-17T09:57:19.234Z"
+  },
+  {
+    "id": "15",
+    "userId": "569ea380-2025-44a8-9b79-d2b39cd8fdc9",
+    "message": "You have been assigned to task: пост Евролаб",
+    "type": "task_assignment",
+    "relatedId": "516e5598-810c-4d76-99cf-4439dc6e9412",
+    "read": false,
+    "createdAt": "2025-06-17T09:57:55.522Z"
+  },
+  {
+    "id": "16",
+    "userId": "569ea380-2025-44a8-9b79-d2b39cd8fdc9",
+    "message": "You have been assigned to task: Сторис ЕВролаб",
+    "type": "task_assignment",
+    "relatedId": "975eee34-f4a7-41be-bced-2f614589fe4d",
+    "read": false,
+    "createdAt": "2025-06-17T09:58:22.458Z"
+  },
+  {
+    "id": "17",
+    "userId": "569ea380-2025-44a8-9b79-d2b39cd8fdc9",
+    "message": "You have been assigned to task: Сторис Евролаб",
+    "type": "task_assignment",
+    "relatedId": "b72f8f72-f2f3-4efd-a0e7-3d7ed78d282b",
+    "read": false,
+    "createdAt": "2025-06-17T09:58:45.180Z"
+  },
+  {
+    "id": "18",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Кардио сторис",
+    "type": "task_assignment",
+    "relatedId": "bc3a8274-7bc1-465f-80c7-9e0ad30c8c8f",
+    "read": false,
+    "createdAt": "2025-06-20T08:07:09.386Z"
+  },
+  {
+    "id": "19",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Кардио сторис ",
+    "type": "task_assignment",
+    "relatedId": "d99eba2d-db22-4ba0-9cb0-7d65bc6aed94",
+    "read": false,
+    "createdAt": "2025-06-20T08:11:27.007Z"
+  },
+  {
+    "id": "20",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Альянс обложка для рилс",
+    "type": "task_assignment",
+    "relatedId": "a79f1270-a04b-498d-9f21-d8f414524bcd",
+    "read": false,
+    "createdAt": "2025-06-20T08:56:39.930Z"
+  },
+  {
+    "id": "21",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Альянс пост",
+    "type": "task_assignment",
+    "relatedId": "2f37dd2a-e334-45c8-8ae9-31a08257cfa6",
+    "read": false,
+    "createdAt": "2025-06-24T08:56:30.690Z"
+  },
+  {
+    "id": "22",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Альянс пост",
+    "type": "task_assignment",
+    "relatedId": "23ab6d90-f24a-407b-a93b-13432539a7fe",
+    "read": false,
+    "createdAt": "2025-06-24T08:56:38.667Z"
+  },
+  {
+    "id": "23",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Концепт фирменного стиля",
+    "type": "task_assignment",
+    "relatedId": "cfa178f6-8bba-4ac2-a202-bc0563868d83",
+    "read": false,
+    "createdAt": "2025-06-24T09:51:10.689Z"
+  },
+  {
+    "id": "24",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Альянс сторис",
+    "type": "task_assignment",
+    "relatedId": "756476a6-1fea-4e40-a0cb-0a0b0a0b7b39",
+    "read": false,
+    "createdAt": "2025-06-30T07:53:05.205Z"
+  },
+  {
+    "id": "25",
+    "userId": "8c35d84f-b586-406b-a94d-dcacf8746110",
+    "message": "You have been assigned to task: Альянс сторис",
+    "type": "task_assignment",
+    "relatedId": "9d3d07c2-aa8f-4987-a428-f1284c2b89ed",
+    "read": false,
+    "createdAt": "2025-06-30T07:53:23.642Z"
+  },
+  {
+    "id": "26",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек сторис",
+    "type": "task_assignment",
+    "relatedId": "75101cbc-07a7-4f69-a46e-724050dba357",
+    "read": false,
+    "createdAt": "2025-06-30T07:54:07.175Z"
+  },
+  {
+    "id": "27",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек пост",
+    "type": "task_assignment",
+    "relatedId": "07707d72-13b2-4e5e-bf79-1b3e382d674e",
+    "read": false,
+    "createdAt": "2025-06-30T07:54:17.012Z"
+  },
+  {
+    "id": "28",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек пост",
+    "type": "task_assignment",
+    "relatedId": "e83ca572-bc9f-40ac-b34a-05b192ffdaa7",
+    "read": false,
+    "createdAt": "2025-06-30T07:54:29.323Z"
+  },
+  {
+    "id": "29",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек сторис",
+    "type": "task_assignment",
+    "relatedId": "203be593-9d5b-4008-88e7-fbbe0cf0a5a1",
+    "read": false,
+    "createdAt": "2025-06-30T07:54:36.659Z"
+  },
+  {
+    "id": "30",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек сторис",
+    "type": "task_assignment",
+    "relatedId": "a6a10b0b-dcfe-4464-ae6e-e1599def523d",
+    "read": false,
+    "createdAt": "2025-06-30T07:54:46.753Z"
+  },
+  {
+    "id": "31",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек сторис",
+    "type": "task_assignment",
+    "relatedId": "b6d09bcd-6d1d-4eb6-a498-1f168db5de18",
+    "read": false,
+    "createdAt": "2025-06-30T07:54:55.361Z"
+  },
+  {
+    "id": "32",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек сторис ",
+    "type": "task_assignment",
+    "relatedId": "27993505-3dcb-4619-9266-c62d846134e4",
+    "read": false,
+    "createdAt": "2025-06-30T07:55:07.673Z"
+  },
+  {
+    "id": "33",
+    "userId": "8",
+    "message": "You have been assigned to task: Фонотек моушн",
+    "type": "task_assignment",
+    "relatedId": "5ec10967-0a0e-4b03-8ef9-e62288e657c6",
+    "read": false,
+    "createdAt": "2025-06-30T07:55:19.303Z"
+  },
+  {
+    "id": "34",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Фонотек сторис",
+    "type": "task_assignment",
+    "relatedId": "bcf81494-7158-45e7-ad2c-aa8397e98411",
+    "read": false,
+    "createdAt": "2025-06-30T07:55:32.793Z"
+  },
+  {
+    "id": "35",
+    "userId": "569ea380-2025-44a8-9b79-d2b39cd8fdc9",
+    "message": "You have been assigned to task: SOUND сторис",
+    "type": "task_assignment",
+    "relatedId": "8da6a908-a959-41f7-8b5c-ec9c5f4ef74f",
+    "read": false,
+    "createdAt": "2025-07-08T10:53:14.294Z"
+  },
+  {
+    "id": "36",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Кардио сторис ",
+    "type": "task_assignment",
+    "relatedId": "c72db8a1-d984-40c4-b2a2-462382e95aea",
+    "read": false,
+    "createdAt": "2025-07-08T10:53:41.982Z"
+  },
+  {
+    "id": "37",
+    "userId": "12352236",
+    "message": "You have been assigned to task: Альянс обложка",
+    "type": "task_assignment",
+    "relatedId": "690c65a6-caff-42cb-9690-bb4466d453ef",
+    "read": false,
+    "createdAt": "2025-07-09T06:51:59.318Z"
+  },
+  {
+    "id": "38",
+    "userId": "8",
+    "message": "You have been assigned to task: Фонотек моушн",
+    "type": "task_assignment",
+    "relatedId": "b35e6372-23cb-4bd1-b675-e8a99b12cbf2",
+    "read": false,
+    "createdAt": "2025-07-10T07:23:59.614Z"
+  },
+  {
+    "id": "39",
+    "userId": "8",
+    "message": "You have been assigned to task: Фонотек моушн ",
+    "type": "task_assignment",
+    "relatedId": "f798c342-2770-4cf3-8810-5546fa77499d",
+    "read": false,
+    "createdAt": "2025-07-10T07:24:09.788Z"
+  },
+  {
+    "id": "40",
+    "userId": "6",
+    "message": "You have been assigned to task: АТН обложка ",
+    "type": "task_assignment",
+    "relatedId": "f5acdeb9-5bda-43a6-83e2-eae00c004228",
+    "read": false,
+    "createdAt": "2025-07-27T00:59:15.695Z"
+  }
+]
